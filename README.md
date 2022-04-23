@@ -4,6 +4,7 @@
 ## IOS
 
 ## Android
+1. QuickEdit: https://play.google.com/store/apps/details?id=com.rhmsoft.edit
 
 ## Ubuntu
 
