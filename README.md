@@ -9,6 +9,7 @@
 3. Concepts: Sketch, Note, Draw: https://play.google.com/store/apps/details?id=com.tophatch.concepts
 
 ## Ubuntu
+4. GitKraken: https://www.gitkraken.com/
 
 ## Windows
 
