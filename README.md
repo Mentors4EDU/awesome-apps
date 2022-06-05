@@ -10,6 +10,7 @@
 
 ## Ubuntu
 4. GitKraken: https://www.gitkraken.com/
+5. Kdenlive: https://kdenlive.org/
 
 ## Windows
 
