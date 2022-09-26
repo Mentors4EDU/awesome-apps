@@ -5,6 +5,7 @@
 
 ## Android
 1. QuickEdit: https://play.google.com/store/apps/details?id=com.rhmsoft.edit
+2. YouTube Studio:
 2. 3D Modeling App: https://3dmodelingapp.info/
 3. Concepts: Sketch, Note, Draw: https://play.google.com/store/apps/details?id=com.tophatch.concepts
 
