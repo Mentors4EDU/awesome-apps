@@ -14,6 +14,8 @@
 5. Kdenlive: https://kdenlive.org/
 
 ## Windows
+6. Etcher: https://etcherpc.com/
+7. Notepad++: https://notepad-plus-plus.org/
 
 ## Mac OS
 
