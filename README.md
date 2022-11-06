@@ -16,7 +16,7 @@
 ## Windows
 6. Etcher: https://etcherpc.com/
 7. Notepad++: https://notepad-plus-plus.org/
-8. VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+8. Oracle VM VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 
 ## Mac OS
 
