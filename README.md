@@ -16,8 +16,10 @@
 ## Windows
 6. Etcher: https://etcherpc.com/
 7. Notepad++: https://notepad-plus-plus.org/
-8. Oracle VM VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+8. Streamlabs: https://streamlabs.com/
+9. Oracle VM VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 
 ## Mac OS
+10. GarageBand: https://www.apple.com/mac/garageband/
 
 ## Elementary OS
