@@ -10,16 +10,16 @@
 4. Concepts: Sketch, Note, Draw: https://play.google.com/store/apps/details?id=com.tophatch.concepts
 
 ## Ubuntu
-4. GitKraken: https://www.gitkraken.com/
 5. Kdenlive: https://kdenlive.org/
+6. GitKraken: https://www.gitkraken.com/
 
 ## Windows
-6. Etcher: https://etcherpc.com/
-7. Notepad++: https://notepad-plus-plus.org/
-8. Streamlabs Desktop: https://streamlabs.com/
-9. Oracle VM VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+7. Etcher: https://etcherpc.com/
+8. Notepad++: https://notepad-plus-plus.org/
+9. Streamlabs Desktop: https://streamlabs.com/
+10. Oracle VM VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 
 ## Mac OS
-10. GarageBand: https://www.apple.com/mac/garageband/
+11. GarageBand: https://www.apple.com/mac/garageband/
 
 ## Elementary OS
