@@ -25,4 +25,4 @@
 13. GarageBand: https://www.apple.com/mac/garageband/
 
 ## Elementary OS
-14. Notes-up: https://github.com/Philip-Scott/Notes-up
+14. Notes-up: https://appcenter.elementary.io/com.github.philip_scott.notes-up/
