@@ -3,27 +3,27 @@
 
 ## IOS
 1. Lightroom: https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582
-2. elementary IDE: https://github.com/donadigo/elementary-ide
 
 ## Android
-3. Anchor: https://play.google.com/store/apps/details?id=fm.anchor.android
-4. QuickEdit: https://play.google.com/store/apps/details?id=com.rhmsoft.edit
-5. YouTube Studio: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator
-6. 3D Modeling App: https://3dmodelingapp.info/
-7. Concepts: Sketch, Note, Draw: https://play.google.com/store/apps/details?id=com.tophatch.concepts
+2. Anchor: https://play.google.com/store/apps/details?id=fm.anchor.android
+3. QuickEdit: https://play.google.com/store/apps/details?id=com.rhmsoft.edit
+4. YouTube Studio: https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator
+5. 3D Modeling App: https://3dmodelingapp.info/
+6. Concepts: Sketch, Note, Draw: https://play.google.com/store/apps/details?id=com.tophatch.concepts
 
 ## Ubuntu
-8. Kdenlive: https://kdenlive.org/
-9. GitKraken: https://www.gitkraken.com/
+7. Kdenlive: https://kdenlive.org/
+8. GitKraken: https://www.gitkraken.com/
 
 ## Windows
-10. Etcher: https://etcherpc.com/
-11. Notepad++: https://notepad-plus-plus.org/
-12. Streamlabs Desktop: https://streamlabs.com/
-13. Oracle VM VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
+9. Etcher: https://etcherpc.com/
+10. Notepad++: https://notepad-plus-plus.org/
+11. Streamlabs Desktop: https://streamlabs.com/
+12. Oracle VM VirtualBox: https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html
 
 ## Mac OS
-14. GarageBand: https://www.apple.com/mac/garageband/
+13. GarageBand: https://www.apple.com/mac/garageband/
 
 ## Elementary OS
-15. Notes-up: https://appcenter.elementary.io/com.github.philip_scott.notes-up/
+14. Notes-up: https://appcenter.elementary.io/com.github.philip_scott.notes-up/
+15. elementary IDE: https://github.com/donadigo/elementary-ide
