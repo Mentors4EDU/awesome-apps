@@ -24,8 +24,9 @@
 
 ## Mac OS
 14. GarageBand: https://www.apple.com/mac/garageband/
+15. Vivaldi Browser: https://vivaldi.com/
 
 ## Elementary OS
-15. Vocal: https://vocalproject.net/
-16. Notes-up: https://appcenter.elementary.io/com.github.philip_scott.notes-up/
-17. elementary IDE: https://github.com/donadigo/elementary-ide
+16. Vocal: https://vocalproject.net/
+17. Notes-up: https://appcenter.elementary.io/com.github.philip_scott.notes-up/
+18. elementary IDE: https://github.com/donadigo/elementary-ide
